@@ -401,6 +401,7 @@ flex-wrap: wrap
 
 .subscribe-button {
 	margin-top: 30px;
+	margin-right: 10px;
 	color: white;
 	display: inline-block;
 	background-color: rgb(255, 46, 46);
