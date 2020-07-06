@@ -379,6 +379,7 @@ flex-wrap: wrap
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
+	width: 100%;
 }
 
 .subscribe-field {
@@ -390,13 +391,12 @@ flex-wrap: wrap
 	border: 0;
 	text-decoration: none;
 	text-align: center;
-	width: 600px;
 	height: 55px;
 	border-radius: 5px;
 	font-size: 20px;
 	align-items: flex-start;
-	min-width: 50px;
-    width: 100%;
+	min-width: 227px;
+    width: 60%;
 }
 
 .subscribe-button {
